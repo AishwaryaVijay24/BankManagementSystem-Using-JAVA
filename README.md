@@ -1,1 +1,2 @@
-# BankManagementSystem-Using-JAVA
+# Digitalisation-of-Cheque
+The Digital Cheque and Bank Account Management System is created using Java and Java GUI toolkit Swing in Apache Netbeans software. For the data collection MySQL is used. This project aims to streamline traditional banking processes by providing a user-friendly platform for managing cheques and bank accounts in a digital environment. Perform cheque transactions, manage bank accounts with ease, and enjoy a modern and intuitive Graphical User Interface (GUI).
